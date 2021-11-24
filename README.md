@@ -1,1 +1,1 @@
-# hop-git
+# hop-get
